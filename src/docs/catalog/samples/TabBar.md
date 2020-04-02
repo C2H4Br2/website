@@ -4,9 +4,11 @@ description: Examples that use TabBars.
 deprecated: true
 ---
 
-All of the sample apps listed here use the Flutter TabBar class in
+Tất cả ứng dụng mẫu được liệt kê ở đây sử dụng lớp Flutter Tabcar một cách thú vị. Trang [Danh mục Ứng dụng mẫu](/docs/catalog/samples) liệt kê mọi ứng dụng mẫu.
+
+<!--All of the sample apps listed here use the Flutter TabBar class in
 an interesting way. The [Sample App Catalog](/docs/catalog/samples) page lists
-all of the sample apps.
+all of the sample apps.-->
 
 <div class="container-fluid">
   <div class="lavish-table-row-mb">
