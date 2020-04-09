@@ -17,12 +17,10 @@ Trang [Sample App Catalog](/docs/catalog/samples) liệt kê tất cả
    </a>
     <div class="col-lg-9">
       <p>
-        Bất kì tiện ích nào với một PreferredSize có thể hiện ở phía dưới 
-        của một AppBar.
+        Bất kì tiện ích nào với một PreferredSize có thể hiện ở phía dưới của một AppBar.
       </p>
       <p>
-        Ứng dụng này bao gồm các lớp sau: AppBar, PreferredSize, TabBarView,
-        TabController.
+        Ứng dụng này bao gồm các lớp sau: AppBar, PreferredSize, TabBarView TabController.
       </p>
       <p>
         <a href="/docs/catalog/samples/app-bar-bottom">Learn more</a>.
@@ -45,7 +43,7 @@ Trang [Sample App Catalog](/docs/catalog/samples) liệt kê tất cả
         TabBar, Scaffold, TabBarView.
       </p>
       <p>
-        <a href="/docs/catalog/samples/tabbed-app-bar">Learn more</a>.
+        <a href="/docs/catalog/samples/tabbed-app-bar">Tìm hiểu thêm</a>.
       </p>
     </div>
   </div>
